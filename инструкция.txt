@@ -1,0 +1,11 @@
+Для запуска программы необходимо:
+1. Установить архив Aflyatunova_Aigul.zip и распаковать его
+2. Открыть папку с помощью PyCharm
+3. В терминале PyCharm прописать следующие команды:
+    cd veb
+    python manage.py runserver
+(для windows)
+    cd veb
+    python3 manage.py runserver
+(для Linux или MacOS)
+4. Нажать на появившуюся в терминале локальную ссылку 
